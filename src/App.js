@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <Layout>
-        <Header title="CI Commit test"/>
+        <Header title="CI Commit test new"/>
         <Container>
           <Card cards={ this.state.cards } />
         </Container>
